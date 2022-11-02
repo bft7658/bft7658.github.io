@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>我的第一篇文章 By Hexo</title>
-    <link href="/2022/11/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0-By-Hexo/"/>
-    <url>/2022/11/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0-By-Hexo/</url>
+    <title>My first post by Hexo</title>
+    <link href="/2022/11/01/My%20first%20post%20by%20Hexo/"/>
+    <url>/2022/11/01/My%20first%20post%20by%20Hexo/</url>
     
-    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><p>hi ~ 你好～ 這是第一篇文章</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><p>hi ~ 你好～ 這是第一篇文章</p><p>終於創建屬於自己的部落格了！</p>]]></content>
     
     
     <categories>
